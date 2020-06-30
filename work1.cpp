@@ -38,7 +38,7 @@ int main()
 					cout<<"Enter eraser(6 Baht):";
 					cin>>eraser;
 					Ceraser+=eraser;
-					CPnotebook+=(eraser*6);
+					CPeraser+=(eraser*6);
 					cout << " Price is "<<eraser*6<<" Baht"<<endl<<endl;
 					Ptotal=(notebook*10)+(pencil*8)+(eraser*6);  
 					cout<<endl;
