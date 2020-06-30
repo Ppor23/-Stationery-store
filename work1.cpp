@@ -134,6 +134,7 @@ int main()
 				} 
 			case 3 :
 				{
+					system("cls");
 					cout<<"THANK YOU!";
 					break;
 				}
